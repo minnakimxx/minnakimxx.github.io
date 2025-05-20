@@ -40,7 +40,20 @@ section#about.resume-section{
 }
 
 .wendycallmebg{
-    background-image: url("../assets/img/callme.jpeg");
+    background-image: url("../assets/img/bgbg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+
+.wendyserif {
+  font-family: "Noto Serif TC", serif;
+  font-optical-sizing: auto;
+  font-weight:weight;
+  font-style:normal;
+}
+
+.wendyhl{
+    color: red;
+    font-weight: 900;
 }
