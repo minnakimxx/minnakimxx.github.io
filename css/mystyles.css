@@ -1,0 +1,46 @@
+p{
+    color:3c3c3c;
+}
+
+a.wendylink{
+    padding:0px 30px ;
+    margin: 0px 0px 0px 10px;
+    border-radius: 50px; 
+    color: cornflowerblue;
+}
+a.wendylink:hover{
+    background-color: #DDDDFF;
+    color: white;
+}
+
+div.wendydivgrey{
+    background-color: rgba(231, 228, 228, 0.318);
+    padding: 30px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    width: 90%;
+    margin:10px auto;
+}
+
+h4.wendysmallh4{
+    font-size: 18px;
+    color: rgb(47, 84, 153);
+}
+
+section#about.resume-section{
+    background-color: #D2E9FF;
+}
+
+.wendycrop{
+    height: 600px;
+    overflow: hidden;
+    object-fit: cover;
+    margin: 10px 5px;
+    border-radius: 10px;
+}
+
+.wendycallmebg{
+    background-image: url("../assets/img/callme.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
