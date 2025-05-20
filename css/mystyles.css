@@ -6,7 +6,7 @@ a.wendylink{
     padding:0px 30px ;
     margin: 0px 0px 0px 10px;
     border-radius: 50px; 
-    color: cornflowerblue;
+    color: #213448;
 }
 a.wendylink:hover{
     background-color: #DDDDFF;
@@ -28,7 +28,7 @@ h4.wendysmallh4{
 }
 
 section#about.resume-section{
-    background-color: #D2E9FF;
+    background-color:#F2F2F2;
 }
 
 .wendycrop{

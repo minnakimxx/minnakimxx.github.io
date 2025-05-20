@@ -1796,7 +1796,7 @@ progress {
 }
 
 .table-striped > tbody > tr:nth-of-type(odd) > * {
-  --bs-table-accent-bg: var(--bs-table-striped-bg);
+  --bs-table-accent-bg: #94b4c1;
   color: var(--bs-table-striped-color);
 }
 
@@ -4856,9 +4856,9 @@ textarea.form-control-lg {
 }
 .list-group-item.active {
   z-index: 2;
-  color: var(--bs-list-group-active-color);
-  background-color: var(--bs-list-group-active-bg);
-  border-color: var(--bs-list-group-active-border-color);
+  color:white ;
+  background-color: #547792;
+  border-color: #547792;
 }
 .list-group-item + .list-group-item {
   border-top-width: 0;
@@ -8128,7 +8128,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #8F93B3	 !important;
+  background-color: #547792	 !important;
 }
 
 .bg-secondary {
